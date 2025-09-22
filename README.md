@@ -21,8 +21,8 @@
 - [Smart Class Monitoring System](https://github.com/alwi-ferdiansyah/Smart-Class-Monitoring) 🎓  
   Class automation using Raspberry Pi 4, OpenCV & IoT for lights, temperature, and humidity.  
 
-- [IoT Trash Compactor](https://github.com/alwi-ferdiansyah/IoT-Trash-Compactor) ♻️  
-  IoT-based smart waste press machine with mechanical screw system.  
+- [Smart Monitoring Mushroom](https://github.com/alwi-ferdiansyah/Smart-Monitoring-Mushroom) ♻️  
+  IoT-based smart monitoring Mushroom in mushroom house. 
 
 - [Industrial Water Flow Automation](https://github.com/alwi-ferdiansyah/Instrumentation-WaterFlow) 💧  
   Automatic water filling system using flow sensor & Arduino.  
