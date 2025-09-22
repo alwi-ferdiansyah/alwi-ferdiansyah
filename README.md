@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Mohammad Alwi Ferdiansyah Alfarizi
 
-🎓 Fresh Graduate in **Electronics Engineering (D4)** from Politeknik Negeri Malang, Kampus Kediri.  
+🎓 Fresh Graduate in **Electronics Engineering (D4)** from Politeknik Negeri Malang.
 ⚡ Passionate about **IoT, Automation, PLC, and Embedded Systems**.  
 💡 Love to turn innovative ideas into real hardware solutions.  
 
