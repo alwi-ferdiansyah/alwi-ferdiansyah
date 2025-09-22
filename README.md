@@ -15,7 +15,7 @@
 ---
 
 ## 📂 Featured Projects
-- [Smart Fish Feeder IoT](https://github.com/alwi-ferdiansyah/Smart-Fish-Feeder-IoT) 🐟  
+- [Smart Fish Feeder](https://github.com/alwi-ferdiansyah/Smart-Fish-Feeder) 🐟  
   Automatic fish feeder using ESP32 & Blynk with real-time monitoring.  
 
 - [Smart Class Monitoring System](https://github.com/alwi-ferdiansyah/Smart-Class-Monitoring) 🎓  
