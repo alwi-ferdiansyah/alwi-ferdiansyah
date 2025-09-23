@@ -26,6 +26,9 @@
 
 - [Automatic Item Counter](https://github.com/alwi-ferdiansyah/Automatic-Item-Counter-Project) 💧  
   Automatic Item Counter For Mini Plan With Arduino
+  
+- [Smart Automatic Bell With Arduino](https://github.com/alwi-ferdiansyah/Smart-Automatic-Bell) 💧  
+  Automatic bell in door with arduino
 
 ---
 
