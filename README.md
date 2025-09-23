@@ -24,8 +24,8 @@
 - [Smart Monitoring Mushroom](https://github.com/alwi-ferdiansyah/Smart-Monitoring-Mushroom) ♻️  
   IoT-based smart monitoring Mushroom in mushroom house. 
 
-- [Industrial Water Flow Automation](https://github.com/alwi-ferdiansyah/Instrumentation-WaterFlow) 💧  
-  Automatic water filling system using flow sensor & Arduino.  
+- [Automatic Item Counter](https://github.com/alwi-ferdiansyah/Automatic-Item-Counter-Project) 💧  
+  Automatic Item Counter For Mini Plan With Arduino
 
 ---
 
