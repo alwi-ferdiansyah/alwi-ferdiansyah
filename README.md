@@ -38,8 +38,8 @@
 ---
 
 ## 🌐 Connect with Me
-- 💼 [LinkedIn](https://linkedin.com/in/your-linkedin)  
-- 📂 [Portfolio GitHub](https://github.com/alwi-ferdiansyah)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/mohammad-alwi-ferdiansyah-369211386/)  
+- 📂 [Portofolio GitHub](https://github.com/alwi-ferdiansyah)  
 - 📧 ferdiansyah.alwi77@gmail.com  
 
 ---
